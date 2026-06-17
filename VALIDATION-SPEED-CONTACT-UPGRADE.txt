@@ -1,0 +1,26 @@
+BOOKMARKETING KRONATRIX SPEED + CONTACT UPGRADE VALIDATION
+
+Domain: https://bookmarketing.kronatrix.co.uk/
+Contact email added: kronatrix.ai@gmail.com
+Flat upload: yes, all files are in one folder.
+HTML files checked: 58
+Missing internal references: 0
+Bad H1 counts: 0
+
+Speed upgrades completed:
+- Hero images changed from cropped logo visuals to Spencer Aurelius where needed.
+- Hero images use fetchpriority=high, loading=eager and decoding=async.
+- Below-fold images keep lazy loading.
+- Main WebP assets recompressed.
+- Image asset total before: 833,378 bytes.
+- Image asset total after: 346,630 bytes.
+- Saved: 486,748 bytes.
+- CSS updated so hero visuals use object-fit: contain instead of cover.
+- Mobile nav blur reduced for faster rendering.
+- Below-fold sections use content-visibility where supported.
+
+Manual setup still needed:
+- In GitHub Pages, set custom domain to bookmarketing.kronatrix.co.uk.
+- In DNS, point CNAME bookmarketing to kronatrixai.github.io.
+- Test all three Formspree forms after publishing.
+- Submit sitemap.xml to Google Search Console and Bing Webmaster Tools.
