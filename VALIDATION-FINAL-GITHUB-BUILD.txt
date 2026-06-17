@@ -1,0 +1,35 @@
+# VALIDATION PASSED — KRONATRIX Authors Final GitHub Build
+
+Generated: 2026-06-17
+
+## Static checks
+
+- HTML pages checked: 57
+- Sitemap URLs: 57
+- CNAME: bookmarketing.kronatrix.co.uk
+- robots.txt allows crawling
+- Formspree placeholder removed
+- Free Author AI Visibility Check endpoint connected
+- Contact endpoint connected
+- Author website enquiry endpoint connected
+- Sitemap regenerated from actual pages
+- site-search.json regenerated from actual pages
+- llms.txt, llms-full.txt and ai.txt updated with final upgrade pages
+
+## Errors
+
+- None
+
+## Warnings / manual checks
+
+- None from static validation
+
+## Manual setup still required
+
+- Upload the folder contents to GitHub.
+- Verify GitHub Pages custom domain and HTTPS.
+- Submit sitemap.xml to Google Search Console and Bing Webmaster Tools.
+- Test every Formspree form manually.
+- Add footer backlinks from proof websites.
+- Publish external mentions/articles.
+- Add real screenshots and testimonials when available.

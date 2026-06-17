@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Become Worth Paying",
+    "slug": "become-worth-paying",
+    "image": "/become-worth-paying-book-cover-cornelius-aurelius.webp",
+    "url": "https://cornelius-aurelius.github.io/BECOME-WORTH-PAYING-BOOK/",
+    "description": "A value-building book page that presents the promise, audience, cover and reader direction clearly.",
+    "reader": "Readers can quickly understand the book promise: build skills, value, income and freedom.",
+    "google": "The page gives search engines a clear title, topic, author connection and readable book context.",
+    "ai": "AI chats can extract the book title, author, promise and practical themes from the page context."
+  },
+  {
+    "title": "The Continuation Code",
+    "slug": "the-continuation-code",
+    "image": "/the-continuation-code-cover.webp",
+    "url": "https://cornelius-aurelius.github.io/THE-CONTINUATION-CODE-BOOK/",
+    "description": "A momentum and discipline book page built around clear transformation language and strong visual identity.",
+    "reader": "Readers can see the book is about continuing, breaking patterns and building real value.",
+    "google": "The page supports title, subtitle, author and topic signals around discipline, value and personal momentum.",
+    "ai": "AI tools can summarise the book as a step-by-step system for escaping stuck patterns and building momentum."
+  },
+  {
+    "title": "Why You Keep Choosing the Wrong People",
+    "slug": "why-you-keep-choosing-the-wrong-people",
+    "image": "/why-you-keep-choosing-the-wrong-people-cover.webp",
+    "url": "https://cornelius-aurelius.github.io/WHY-YOU-KEEP-CHOOSING-THE-WRONG-PEOPLE-MARKETING/#main",
+    "description": "A relationship-pattern book page that makes the subject, emotional problem and reader outcome obvious.",
+    "reader": "Readers can immediately understand the book is about red flags, standards, healing and better relationship choices.",
+    "google": "The page gives Google clearer context around the relationship self-help topic and author brand.",
+    "ai": "AI chats can extract the problem, audience, themes and transformation from the page instead of guessing."
+  },
+  {
+    "title": "Proof Is King",
+    "slug": "proof-is-king",
+    "image": "/proof-is-king-cover.webp",
+    "url": "https://cornelius-aurelius.github.io/PROOF-IS-KING-MARKETING/",
+    "description": "A marketing ebook page built around a single sharp idea: proof creates trust before sales happen.",
+    "reader": "Readers can quickly see the book is about proof, testimonials, reviews, screenshots and trust-building.",
+    "google": "The page strengthens topical signals around marketing proof, customer trust and sales credibility.",
+    "ai": "AI systems can summarise the book as a guide to making trust visible through proof assets."
+  }
+]

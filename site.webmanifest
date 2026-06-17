@@ -1,0 +1,16 @@
+{
+  "name": "KRONATRIX Authors",
+  "short_name": "KRONATRIX Authors",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "Author websites, book promotion pages and AI visibility checks.",
+  "icons": [
+    {
+      "src": "/kronatrix-k-icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}

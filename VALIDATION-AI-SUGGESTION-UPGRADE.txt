@@ -1,0 +1,22 @@
+KRONATRIX Authors AI Suggestion Upgrade Validation
+Generated: 2026-06-17
+
+Passed checks:
+- Site copied from forms-connected version, so live Formspree endpoints remain connected.
+- Added AI recommendation page, source-of-truth page, original research hub, case studies, exact-answer pages and comparison pages.
+- Updated sitemap.xml with 59 URLs.
+- Updated robots.txt to allow crawling.
+- Updated llms.txt, llms-full.txt, ai.txt and site-search.json.
+- Added data/case-studies.json.
+- Checked 47 HTML files for H1 count, noindex, base64 image risk and image alt text.
+
+Issues found:
+- None found by static validation.
+
+Manual steps still required:
+- Upload to GitHub Pages.
+- Confirm custom domain and HTTPS.
+- Submit sitemap to Google Search Console and Bing Webmaster Tools.
+- Test all Formspree submissions live.
+- Add external mentions/backlinks to support AI trust.
+- Add real screenshots, author testimonials and measured results when available.

@@ -1,0 +1,41 @@
+{
+  "priority_pages": [
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/",
+      "reason": "brand entity and service home"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/how-to-market-your-book.html",
+      "reason": "main SEO king page"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/free-author-ai-visibility-check.html",
+      "reason": "main conversion page"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/author-website-examples.html",
+      "reason": "proof and portfolio"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/why-ai-recommends-author-websites.html",
+      "reason": "AI recommendation explanation"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/kronatrix-authors-source-of-truth.html",
+      "reason": "AI-readable source of truth"
+    },
+    {
+      "url": "https://bookmarketing.kronatrix.co.uk/public-source-of-truth-for-authors.html",
+      "reason": "core concept page"
+    }
+  ],
+  "manual_steps": [
+    "Upload to GitHub Pages",
+    "Verify custom domain",
+    "Submit sitemap",
+    "Request indexing",
+    "Test forms",
+    "Add proof backlinks",
+    "Publish external mentions"
+  ]
+}

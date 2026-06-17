@@ -1,0 +1,33 @@
+VALIDATION PASSED — Bookmarketing KRONATRIX flat GitHub upload
+
+Generated: 2026-06-17
+
+Target repository:
+bookmarketing-kronatrix
+
+Target custom domain:
+bookmarketing.kronatrix.co.uk
+
+Validated:
+- All files are in one flat folder.
+- CNAME is set to bookmarketing.kronatrix.co.uk.
+- Canonical URLs, sitemap URLs, schema URLs and AI-readable files have been changed from authors.kronatrix.co.uk to bookmarketing.kronatrix.co.uk.
+- Internal links and asset references have been converted to flat relative paths so the site can load on GitHub preview and on the custom domain.
+- Formspree form endpoints remain connected.
+- robots.txt allows crawling and points to https://bookmarketing.kronatrix.co.uk/sitemap.xml.
+- sitemap.xml includes 66 URLs.
+- HTML files checked: 58.
+- Total files in this upload folder: 109.
+
+Manual setup still needed:
+1. Upload every file from this folder to the root of the `bookmarketing-kronatrix` GitHub repo.
+2. In GitHub Pages settings, set custom domain to bookmarketing.kronatrix.co.uk.
+3. Add DNS CNAME record: bookmarketing → kronatrixai.github.io.
+4. After DNS works, submit https://bookmarketing.kronatrix.co.uk/sitemap.xml to Google Search Console and Bing Webmaster Tools.
+5. Test all Formspree forms.
+
+Validation issues found:
+None.
+
+Old domain files found:
+None.

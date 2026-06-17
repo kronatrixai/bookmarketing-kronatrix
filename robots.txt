@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Search and AI discovery crawlers are not blocked.
+# Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User and PerplexityBot may crawl public pages if they follow standard robots.txt behaviour.
+
+Sitemap: https://bookmarketing.kronatrix.co.uk/sitemap.xml

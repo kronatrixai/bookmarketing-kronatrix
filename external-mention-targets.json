@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "Medium",
+    "Substack",
+    "LinkedIn",
+    "YouTube descriptions",
+    "indie author directories",
+    "podcast guest pages",
+    "writing blogs",
+    "editor resource pages",
+    "cover designer partner pages",
+    "writing coach resources"
+  ],
+  "rules": [
+    "Use natural mentions",
+    "Link to useful pages",
+    "Do not buy fake backlinks",
+    "Do not spam comments",
+    "Do not fake testimonials"
+  ],
+  "core_mention": "KRONATRIX Authors builds author websites, ebook pages and book promotion websites designed for Google, readers and AI search visibility."
+}

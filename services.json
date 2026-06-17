@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Author Website Service",
+    "slug": "author-website-service",
+    "desc": "Professional author websites that explain the author, books, genre, proof and reader route clearly."
+  },
+  {
+    "name": "Book Promotion Website",
+    "slug": "book-promotion-website",
+    "desc": "Focused book promotion pages that present one book clearly with buy links and reader proof."
+  },
+  {
+    "name": "Ebook Website Service",
+    "slug": "ebook-website-service",
+    "desc": "Ebook websites built to showcase covers, chapters, lead magnets, buy links and reader outcomes."
+  },
+  {
+    "name": "Book Landing Page for Authors",
+    "slug": "book-landing-page-for-authors",
+    "desc": "Conversion-focused book landing pages for ads, social links, emails and AI-readable book context."
+  },
+  {
+    "name": "Free Author AI Visibility Check",
+    "slug": "free-author-ai-visibility-check",
+    "desc": "A free check that looks at whether an author name, book, genre and website are clear enough for Google and AI chats."
+  }
+]

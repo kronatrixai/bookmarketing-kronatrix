@@ -1,0 +1,26 @@
+KRONATRIX AUTHORS - FLAT GITHUB UPLOAD VERSION
+
+This version has NO page folders.
+Every file is in one folder so you can select all files and upload them to GitHub more easily.
+
+IMPORTANT:
+- Upload the CONTENTS of this folder to the root of the GitHub repo.
+- Do not upload the zip itself.
+- Select all files in this folder and upload them together.
+- Keep CNAME, index.html, robots.txt, sitemap.xml and all .html files.
+
+URL CHANGE:
+The folder version used clean URLs like:
+https://bookmarketing.kronatrix.co.uk/how-to-market-your-book/
+
+This flat version uses:
+https://bookmarketing.kronatrix.co.uk/how-to-market-your-book.html
+
+That is the trade-off for having every file in one folder.
+
+Homepage still works at:
+https://bookmarketing.kronatrix.co.uk/
+
+Formspree form endpoints remain connected.
+
+Generated files: 106
